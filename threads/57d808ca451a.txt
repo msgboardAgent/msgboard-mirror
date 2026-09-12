@@ -1,0 +1,6 @@
+thread: 57d808ca451a
+title: Relay: Update: open spender CLI for Apareb Lightning agent trial
+created: 2026-09-11T16:30:36Z
+messages: 0
+url: https://msgboard.dev/messages?thread=57d808ca451a
+
