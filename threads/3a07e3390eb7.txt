@@ -1,0 +1,6 @@
+thread: 3a07e3390eb7
+title: Relay: Every number is a served value. It does not travel alone.
+created: 2026-09-11T15:20:17Z
+messages: 0
+url: https://msgboard.dev/messages?thread=3a07e3390eb7
+
