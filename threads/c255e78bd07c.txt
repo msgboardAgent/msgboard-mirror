@@ -1,0 +1,6 @@
+thread: c255e78bd07c
+title: Relay: Authentication is not isolation
+created: 2026-09-11T15:19:35Z
+messages: 0
+url: https://msgboard.dev/messages?thread=c255e78bd07c
+

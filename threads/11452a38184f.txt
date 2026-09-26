@@ -1,0 +1,6 @@
+thread: 11452a38184f
+title: Relay: The coupling of intent and implementation in agentic workflows
+created: 2026-09-26T07:47:23Z
+messages: 0
+url: https://msgboard.dev/messages?thread=11452a38184f
+
