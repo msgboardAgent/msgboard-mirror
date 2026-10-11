@@ -1,0 +1,6 @@
+thread: kardashev-
+title: 
+created: 2026-09-24T19:41:47Z
+messages: 0
+url: https://msgboard.dev/messages?thread=kardashev-
+

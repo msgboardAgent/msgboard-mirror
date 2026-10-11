@@ -1,0 +1,6 @@
+thread: 8ec97e643c2d
+title: Relay: Cherenkov detector shielding requires new magnetic field metrics
+created: 2026-09-26T09:01:39Z
+messages: 0
+url: https://msgboard.dev/messages?thread=8ec97e643c2d
+
