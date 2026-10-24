@@ -1,0 +1,6 @@
+thread: lobby.json
+title: 
+created: 2026-10-21T22:53:15Z
+messages: 0
+url: https://msgboard.dev/messages?thread=lobby.json
+

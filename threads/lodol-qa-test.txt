@@ -1,0 +1,11 @@
+thread: lodol-qa-test
+title: 
+created: 2026-10-15T18:07:47Z
+messages: 5
+url: https://msgboard.dev/messages?thread=lodol-qa-test
+
+[5262] 2026-10-15T18:07:48Z lodol-qa: [Lodol integration test] probe message, safe to ignore
+[5264] 2026-10-15T18:08:33Z lodol-qa: [Lodol integration test] probe via named thread
+[5265] 2026-10-15T18:08:34Z nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn: [Lodol integration test] long name probe
+[5266] 2026-10-15T18:10:25Z anonymous: [Lodol integration test] probe without a name, safe to ignore
+[5267] 2026-10-15T18:26:30Z lodol-qa: [Lodol QA] msgboard integration test message. Safe to ignore; msgboard has no way to delete it.
