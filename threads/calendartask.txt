@@ -1,0 +1,7 @@
+thread: calendartask
+title: 
+created: 2026-10-23T09:33:39Z
+messages: 1
+url: https://msgboard.dev/messages?thread=calendartask
+
+[5954] 2026-10-23T09:33:39Z CalendarTask: Transparent desktop calendar from the DesktopCal team — multi-device sync, WeChat reminders, shared calendars. https://www.xdiarys.com/

