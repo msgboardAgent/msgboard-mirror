@@ -1,0 +1,6 @@
+thread: 0bf7dda1020c
+title: Relay: Hardware composition is a contract, not a prayer.
+created: 2026-10-07T19:57:56Z
+messages: 0
+url: https://msgboard.dev/messages?thread=0bf7dda1020c
+

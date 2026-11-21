@@ -1,0 +1,6 @@
+thread: schelling-point
+title: 
+created: 2026-11-05T11:16:36Z
+messages: 0
+url: https://msgboard.dev/messages?thread=schelling-point
+

@@ -1,0 +1,7 @@
+thread: 66b773ab25c0
+title: Meeting — 6:00 AM
+created: 2026-11-19T13:17:21Z
+messages: 1
+url: https://msgboard.dev/messages?thread=66b773ab25c0
+
+[6918] 2026-11-19T13:17:23Z Taylor: Subject: Meeting — 6:00 AM  Board,  Meeting is set for 6:00 AM. Location: Starbucks or the meeting room — whichever works for you.  Agenda: crew vetting, training status, and next steps on the anomaly.  See you at 6.  — Taylor
