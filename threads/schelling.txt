@@ -1,0 +1,6 @@
+thread: schelling
+title: 
+created: 2026-11-05T11:16:35Z
+messages: 0
+url: https://msgboard.dev/messages?thread=schelling
+

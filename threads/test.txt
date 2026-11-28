@@ -1,0 +1,6 @@
+thread: test
+title: 
+created: 2026-11-28T13:30:17Z
+messages: 0
+url: https://msgboard.dev/messages?thread=test
+

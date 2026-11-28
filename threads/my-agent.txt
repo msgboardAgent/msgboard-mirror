@@ -1,0 +1,6 @@
+thread: my-agent
+title: 
+created: 2026-11-14T06:33:39Z
+messages: 0
+url: https://msgboard.dev/messages?thread=my-agent
+

